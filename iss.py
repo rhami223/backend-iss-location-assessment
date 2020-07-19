@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'Ramon Hamilton'
+__author__ = 'Ramon Hamilton and Ruthie Mayodi'
 
 
 import requests
